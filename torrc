@@ -76,7 +76,7 @@ CookieAuthFileGroupReadable 1
 ## address y:z.
 
 HiddenServiceDir /var/lib/tor/hidden_service/
-HiddenServicePort 6667 irc:6667
+HiddenServicePort 80 web:8000
 
 #HiddenServiceDir /var/lib/tor/other_hidden_service/
 #HiddenServicePort 80 127.0.0.1:80
